@@ -1,4 +1,4 @@
-# :wave: The Basics of GitHub  zmieniony___
+# :wave: The Basics of GitHub  zmieniony___ v.1.0.1
 
 ## 🤓 Course overview and learning outcomes 
 
